@@ -1,0 +1,16 @@
+.local-backup/
+.env*
+*.jks
+*.pem
+*.key
+*.pfx
+*.p12
+**/target/
+**/node_modules/
+**/.idea/
+*.iml
+*.class
+*.log
+project.private.config.json
+weatherProject2.0/maven_*.properties
+weatherProject2.0/src/main/resources/application.yml
